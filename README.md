@@ -3,24 +3,32 @@
 My solutions to the LeetCode Top 50 SQL Study Plan. Organized by topic and optimized for performance.
 
 ## 📊 Progress Tracker
+
 | Topic | Solved | Total | Progress |
-| :--- | :---: | :---: | :---: |
+| :--- | :---: | :---: | :--- |
 | Select | 5 | 5 | ██████████ 100% |
-| Basic Joins | 0 | 9 | ░░░░░░░░░░ 0% |
+| Basic Joins | 5 | 9 | █████░░░░░ 55% |
 | Basic Aggregate Functions | 0 | 8 | ░░░░░░░░░░ 0% |
 | Sorting and Grouping | 0 | 7 | ░░░░░░░░░░ 0% |
 | Advanced Select and Joins | 0 | 7 | ░░░░░░░░░░ 0% |
 | Subqueries | 0 | 7 | ░░░░░░░░░░ 0% |
 | Advanced String Functions / Regex / Clause | 0 | 7 | ░░░░░░░░░░ 0% |
-| **Total** | **5** | **50** | **10%** |
+| **Total** | **10** | **50** | **20%** |
 
 ---
 
 ## 📁 Solutions List
 
-### Select (Sub-Category)
-- [x] [1757. Recyclable and Low Fat Products](./1757.%20Recyclable%20and%20Low%20Fat%20Products)
-- [x] [584. Find Customer Referee](./584.%20Find%20Customer%20Referee)
-- [x] [595. Big Countries](./595.%20Big%20Countries)
-- [x] [1148. Article Views I](./1148.%20Article%20Views%20I)
-- [x] [1683. Invalid Tweets](./1683.%20Invalid%20Tweets)
+### 🔍 Select
+- [x] [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+- [x] [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
+- [x] [595. Big Countries](https://leetcode.com/problems/big-countries/)
+- [x] [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
+- [x] [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)
+
+### 🔗 Basic Joins
+- [x] [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)
+- [x] [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)
+- [x] [1378. Replace Employee ID With the Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
+- [x] [1581. Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
+- [x] [1661. Average Time of Process Per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)
