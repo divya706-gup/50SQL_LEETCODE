@@ -1,0 +1,19 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1211. Queries Quality and Percentage
+//  URL      : https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : July 19, 2026
+// ═══════════════════════════════════════════════════════
+
+# Write your MySQL query statement below
+SELECT 
+    query_name,
+    ROUND(AVG(rating / position), 2) AS quality,
+    ROUND(AVG(rating < 3) * 100, 2) AS poor_query_percentage
+FROM 
+    Queries
+WHERE
+    query_name IS NOT NULL
+GROUP BY 
+    query_name;
