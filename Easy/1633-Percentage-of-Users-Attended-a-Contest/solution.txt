@@ -1,0 +1,19 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1633. Percentage of Users Attended a Contest
+//  URL      : https://leetcode.com/problems/percentage-of-users-attended-a-contest/submissions/2073245389/?envType=study-plan-v2&envId=top-sql-50
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : July 19, 2026
+// ═══════════════════════════════════════════════════════
+
+# Write your MySQL query statement below
+SELECT 
+    contest_id, 
+    ROUND(COUNT(user_id) * 100.0 / (SELECT COUNT(*) FROM Users), 2) AS percentage
+FROM 
+    Register
+GROUP BY 
+    contest_id
+ORDER BY 
+    percentage DESC, 
+    contest_id ASC;
