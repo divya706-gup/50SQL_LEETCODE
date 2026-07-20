@@ -1,27 +1,33 @@
-# 🚀 LeetCode Solutions
+# 50 SQL LeetCode Solutions 🚀
 
-> Auto-synced by [LeetSync](https://github.com) browser extension.
-
-## 📊 Progress
-
-![Total](https://img.shields.io/badge/Total-11-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-6-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-4-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-1-red?style=flat-square)
-
-| # | Problem | Difficulty | Language | Solved |
-|---|---------|------------|----------|--------|
-| 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/submissions/2072056579/?envType=study-plan-v2&envId=top-sql-50) | 🟡 Medium | `chooseatype` | Jul 18, 2026 |
-| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50) | 🟢 Easy | `MySQL` | Jul 19, 2026 |
-| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50) | 🟢 Easy | `chooseatype` | Jul 19, 2026 |
-| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/submissions/?envType=daily-question&envId=2026-07-19) | 🟡 Medium | `chooseatype` | Jul 19, 2026 |
-| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/submissions/2073246488/?envType=study-plan-v2&envId=top-sql-50) | 🟡 Medium | `MySQL` | Jul 19, 2026 |
-| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50) | 🟡 Medium | `chooseatype` | Jul 19, 2026 |
-| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50) | 🟢 Easy | `chooseatype` | Jul 19, 2026 |
-| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/?envType=study-plan-v2&envId=top-sql-50) | 🟢 Easy | `chooseatype` | Jul 19, 2026 |
-| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/submissions/2073245389/?envType=study-plan-v2&envId=top-sql-50) | 🟢 Easy | `chooseatype` | Jul 19, 2026 |
-| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/2071689791/?envType=daily-question&envId=2026-07-18) | 🟢 Easy | `chooseatype` | Jul 18, 2026 |
-| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2071357291/?envType=daily-question&envId=2026-07-17) | 🔴 Hard | `chooseatype` | Jul 17, 2026 |
+This repository contains my solutions to the **LeetCode Top 50 SQL Problems**, organized in a structured table.
 
 ---
-*Last updated: Sun, 19 Jul 2026 08:26:18 GMT*
+
+## 📊 Solved Problems List
+
+| # | Problem Name | Category / Folder | Difficulty |
+|---|---|---|---|
+| **0197** | Rising Temperature | `Database/` | 🟢 Easy |
+| **0584** | Find Customer Referee | `Database/` | 🟢 Easy |
+| **0595** | Big Countries | `Database/` | 🟢 Easy |
+| **1068** | Product Sales Analysis I | `Database/` | 🟢 Easy |
+| **1075** | Project Employees I | `Database/Easy/` | 🟢 Easy |
+| **1148** | Article Views I | `Database/` | 🟢 Easy |
+| **1155** | Product Sales Analysis III | `Database/Medium/` | 🟡 Medium |
+| **1193** | Monthly Transactions I | `Database/Medium/` | 🟡 Medium |
+| **1211** | Queries Quality and Percentage | `Database/Easy/` | 🟢 Easy |
+| **1245** | User Activity for the Past 30 Days I | `Database/Easy/` | 🟢 Easy |
+| **1251** | Average Selling Price | `Database/Easy/` | 🟢 Easy |
+| **1378** | Replace Employee ID With The Unique Identifier | `Database/` | 🟢 Easy |
+| **1581** | Customer Who Visited But Did Not Make Any Transactions | `Database/` | 🟢 Easy |
+| **1633** | Percentage of Users Attended a Contest | `Database/Easy/` | 🟢 Easy |
+| **1661** | Average Time of Process Per Machine | `Database/` | 🟢 Easy |
+| **1683** | Invalid Tweets | `Database/` | 🟢 Easy |
+| **1757** | Recyclable and Low Fat Products | `Database/` | 🟢 Easy |
+
+---
+
+## 🛠️ Tech Stack
+* **Language:** SQL (MySQL)
+* **Platform:** [LeetCode](https://leetcode.com/)
