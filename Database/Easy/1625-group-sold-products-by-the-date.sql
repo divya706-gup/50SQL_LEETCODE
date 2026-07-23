@@ -2,7 +2,7 @@
 -- Problem: 1625. Group Sold Products By The Date
 -- Difficulty: Easy
 -- Topics: Database
--- Runtime: 649 ms (Beats 7.2%)
+-- Runtime: 501 ms (Beats 29.1%)
 -- Memory: 0B (Beats 100.0%)
 -- Submitted: Jul 23, 2026
 -- Link: https://leetcode.com/problems/group-sold-products-by-the-date/
@@ -18,4 +18,4 @@ FROM
 GROUP BY 
     sell_date
 ORDER BY 
-    sell_date;
+    sell_date ASC;
